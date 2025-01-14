@@ -14,6 +14,19 @@
 
 This project enhances the HTML skeleton created in Milestone 1 by adding styles using CSS. The focus is on the fundamental concepts of CSS to make the website visually appealing and structured.
 
+
+## 🗂️ Folder Structure
+
+```plaintext
+02_milestone/
+│
+├── index.html           # Main HTML file for the milestone
+├── style.css            # CSS file for styling the HTML
+├── logo.png             # Logo image used in the header
+├── .jpg                 # Sample Product images
+└── README.md            # Milestone documentation
+```
+
 ---
 
 ## **Updated Project Code**

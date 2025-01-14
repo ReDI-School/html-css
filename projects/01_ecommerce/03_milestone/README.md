@@ -13,6 +13,20 @@ This project completes the e-commerce store by refining its layout with Flexbox 
 
 ---
 
+## 🗂️ Folder Structure
+
+```plaintext
+03_milestone/
+│
+├── index.html           # Main HTML file for the milestone
+├── style.css            # CSS file for styling the HTML
+├── logo.svg             # Logo image used in the header
+├── .jpg                 # Sample Product images
+└── README.md            # Milestone documentation
+```
+
+---
+
 ## **Updated Project Code**
 
 ### **1. Updated `index.html`**

@@ -14,6 +14,21 @@ By the end of this milestone, you will:
 
 We will create the foundational structure of an e-commerce website. The focus will be on writing semantic, well-organized HTML. Styling and layout will be added in later weeks.
 
+
+--- 
+
+## 🗂️ Folder Structure
+
+```plaintext
+01_milestone/
+│
+├── index.html           # Main HTML file for the milestone
+├── logo.svg             # Logo image used in the header
+├── .jpg                 # Sample Product images 
+├── project_guide.md     # Guide for completing the milestone
+└── README.md            # Milestone documentation
+```
+
 ---
 
 ## **Step-by-Step Guide**

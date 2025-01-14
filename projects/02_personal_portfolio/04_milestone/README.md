@@ -1,8 +1,13 @@
-# **Project: Personal Portfolio Website**
+# **BONUS MILESTONE: Personal Portfolio Website**
 
 ## **Overview**
 
-This project focuses on building a fully responsive and accessible personal portfolio website. Across Weeks 5, 6, and 7, students learn to implement semantic HTML, advanced CSS techniques, and responsive design to create an interactive and visually appealing portfolio.
+This project focuses on building a fully responsive and accessible personal portfolio website. Across Milestone 1, 2 and 3, students learn to implement semantic HTML, advanced CSS techniques, and responsive design to create an interactive and visually appealing portfolio.
+
+This fourth milestone is a bonus milestone. That means you don't need to complete it to hand in the project. If you completed milestone 1-3, then we recommend you to work on the BONUS milestone. If you haven't completed milestone 1-3, then finish them first. 
+
+
+
 
 ---
 
