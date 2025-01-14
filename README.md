@@ -103,6 +103,6 @@ This repository is licensed under the [MIT License](https://opensource.org/licen
 
 ## 💬 Questions?
 
-If you have any questions, feel free to reach out on Slack or contact your teachers directly.
+If you have any questions, feel free to contact ReDI or your teachers via Slack.
 
 Happy Coding! 🎉
