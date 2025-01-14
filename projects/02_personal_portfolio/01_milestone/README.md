@@ -13,6 +13,18 @@ This project marks the beginning of a personal portfolio website. It includes a 
 
 ---
 
+## 🗂️ Folder Structure
+
+```plaintext
+01_milestone/
+│
+├── index.html           # Main HTML file for the milestone
+├── style.css            # CSS file for styling the HTML
+└── README.md            # Milestone documentation
+```
+
+---
+
 ## **Project Code**
 
 ### **1. `index.html`**

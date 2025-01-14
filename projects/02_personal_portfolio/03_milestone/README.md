@@ -15,6 +15,18 @@ This project completes the personal portfolio by making it responsive. The desig
 
 ---
 
+## 🗂️ Folder Structure
+
+```plaintext
+03_milestone/
+│
+├── index.html           # Main HTML file for the milestone
+├── style.css            # CSS file for styling the HTML
+└── README.md            # Milestone documentation
+```
+
+---
+
 ## **Project Code**
 
 ### **1. Updated `index.html`**

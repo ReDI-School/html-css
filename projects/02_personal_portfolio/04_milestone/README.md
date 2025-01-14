@@ -7,6 +7,17 @@ This project focuses on building a fully responsive and accessible personal port
 This fourth milestone is a bonus milestone. That means you don't need to complete it to hand in the project. If you completed milestone 1-3, then we recommend you to work on the BONUS milestone. If you haven't completed milestone 1-3, then finish them first. 
 
 
+---
+
+## 🗂️ Folder Structure
+
+```plaintext
+04_milestone/
+│
+├── index.html           # Main HTML file for the milestone
+├── style.css            # CSS file for styling the HTML
+└── README.md            # Milestone documentation
+```
 
 
 ---

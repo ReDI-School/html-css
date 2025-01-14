@@ -1,4 +1,4 @@
-# ** BONUS MILESTONE: Building and Styling an E-Commerce Store**
+# **BONUS MILESTONE: Building and Styling an E-Commerce Store**
 
 ## **Overview**
 

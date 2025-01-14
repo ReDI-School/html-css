@@ -11,6 +11,20 @@
 ## **Project Overview**
 This project builds on the Milestone 5 portfolio by adding animations and transitions to elements like navigation links, buttons, and the contact form. Advanced CSS selectors and pseudo-classes are used to refine the design.
 
+
+---
+
+## 🗂️ Folder Structure
+
+```plaintext
+02_milestone/
+│
+├── index.html           # Main HTML file for the milestone
+├── style.css            # CSS file for styling the HTML
+└── README.md            # Milestone documentation
+```
+
+
 ---
 
 ## **Project Code**

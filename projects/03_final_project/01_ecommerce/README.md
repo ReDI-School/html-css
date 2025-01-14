@@ -31,6 +31,18 @@
 
 ---
 
+## 🗂️ Folder Structure
+
+```plaintext
+01_ecommerce/
+│
+├── index.html           # Main HTML file
+├── style.css            # CSS file for styling the HTML
+└── README.md            # Documentation
+```
+
+---
+
 ## **Key Code Components**
 
 ### **HTML**
