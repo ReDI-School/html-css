@@ -10,67 +10,38 @@ This course introduces the fundamental concepts of web development, focusing on 
 - A final project of your choice: a responsive e-commerce site or a creative developer portfolio.
 
 
+## 🗂️ Repository Structure
+
+```
+html-css/
+│
+├── projects/         # Project Description with weekly milestones
+├── README.md         # Repository overview
+└── .gitignore        # Git configuration
+```
+
 ---
 
 ## 🏗️ Projects
 
-### Project I: E-Commerce Store
+### 1. E-Commerce Store
 
-**Goal:** 
-Build and style a basic e-commerce website using semantic HTML and CSS. Learn CSS basics, including selectors, properties, and the box model. Add responsiveness with Flexbox and Grid.
+- Build and style a basic e-commerce website using semantic HTML and CSS.
+- Learn CSS basics, including selectors, properties, and the box model.
+- Add responsiveness with Flexbox and Grid.
 
-#### Milestones:
+### 2. Personal Portfolio
 
-1. **HTML Basics:**
-   - HTML elements and commonly used tags
-   - Semantic HTML structure
-   - Basic site architecture
-   - Version control with Git & GitHub
-   - Command Line Interface basics
+- Create a portfolio website to showcase your skills and projects.
+- Use advanced CSS features like animations, transitions, and pseudo-classes.
+- Focus on accessibility and responsive design.
 
-2. **CSS Basics:**
-   - CSS selectors and properties
-   - Box model
-   - Color theory and typography
-   - Spacing and layout basics
-   - Style implementation
+### 3. Final Project
 
-3. **CSS Layout:**
-   - Flexbox
-   - CSS Grid
-   - Positioning techniques
-   - Responsive design principles
-   - Media queries
+Choose one of the following:
 
----
-
-### Project II: Personal Portfolio
-
-**Goal:** 
-Create a portfolio website to showcase your skills and projects. Use advanced CSS features like animations, transitions, and pseudo-classes. Focus on accessibility and responsive design.
-
-#### Milestones:
-
-1. **HTML & CSS:**
-   - Forms and form validation
-   - Accessibility best practices
-   - Advanced HTML5 elements
-   - SEO basics
-   - Advanced selectors
-
-2. **CSS Advanced:**
-   - Animations and transitions
-   - Pseudo-classes and pseudo-elements
-   - Advanced styling techniques
-   - CSS custom properties
-   - Transform and translate properties
-
-3. **Responsive Design:**
-   - Mobile-first design principles
-   - Advanced media queries
-   - Responsive images
-   - Grid systems
-   - Performance optimization
+- TechStore Responsive Design Project: A fully responsive e-commerce web application.
+- Creative Developer Portfolio: A modern, interactive portfolio to highlight your creativity.
 
 ---
 
