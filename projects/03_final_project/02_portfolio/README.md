@@ -50,5 +50,3 @@
 - A fully responsive and visually engaging portfolio.
 - A modern design that highlights the developer's creativity and technical expertise.
 - An intuitive and user-friendly experience across devices.
-
----
