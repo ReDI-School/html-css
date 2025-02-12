@@ -1,8 +1,8 @@
-# **Milestone 5: HTML & CSS – Project Guide**
+# **Milestone 1: HTML & CSS – Project Guide**
 
 ## **Overview**
 
-This guide provides an explanation of the Milestone 5 project, which involves creating the foundation of a personal portfolio website. The focus is on building a semantic HTML structure with accessible forms and advanced CSS styling.
+This guide provides an explanation of the Milestone 1 project, which involves creating the foundation of a personal portfolio website. The focus is on building a semantic HTML structure with accessible forms and advanced CSS styling.
 
 ---
 

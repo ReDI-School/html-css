@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-In the first three weeks, we progressively built and styled an e-commerce store using **HTML** and **CSS**. This recap summarizes the key objectives, concepts, and steps covered in each Milestone. This fourth milestone is a bonus milestone. That means you don't need to complete it to hand in the project. If you completed milestone 1-3, then we recommend you to work on the BONUS milestone. If you haven't completed milestone 1-3, then finish them first. 
+In the first three Milestones, we progressively built and styled an e-commerce store using **HTML** and **CSS**. This recap summarizes the key objectives, concepts, and steps covered in each Milestone. This fourth milestone is a bonus milestone. That means you don't need to complete it to hand in the project. If you completed milestone 1-3, then we recommend you to work on the BONUS milestone. If you haven't completed milestone 1-3, then finish them first. 
 
 ---
 

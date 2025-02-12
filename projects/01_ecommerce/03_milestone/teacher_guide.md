@@ -1,8 +1,8 @@
-# **Teacher Guide – Week 3: CSS Layout**
+# **Teacher Guide – Milestone 3: CSS Layout**
 
 ## **Introduction**
 
-This guide is designed to help instructors teach students advanced CSS layout techniques, focusing on Flexbox, Grid, and responsive design. The lesson emphasizes creating a polished, mobile-friendly e-commerce store by building on the foundational work from previous weeks.
+This guide is designed to help instructors teach students advanced CSS layout techniques, focusing on Flexbox, Grid, and responsive design. The lesson emphasizes creating a polished, mobile-friendly e-commerce store by building on the foundational work from previous Milestones.
 
 ---
 

@@ -1,24 +1,24 @@
-# **Recap: Weeks 5, 6, and 7 – Project Guide**
+# **Recap: Milestones 1, 2, and 3 – Project Guide**
 
 ## **Overview**
 
-This guide summarizes the core concepts and project outputs from Weeks 5, 6, and 7. Over these weeks, students enhanced their personal portfolio project, focusing on accessibility, animations, and responsive design.
+This guide summarizes the core concepts and project outputs from Milestones 5, 6, and 7. Over these Milestones, students enhanced their personal portfolio project, focusing on accessibility, animations, and responsive design.
 
 ---
 
 ## **Core Concepts Demonstrated**
 
-1. **HTML & Accessibility (Milestone 5)**:
+1. **HTML & Accessibility (Milestone 1)**:
 
    - Structuring a personal portfolio website with semantic HTML.
    - Implementing accessible forms using ARIA attributes and proper labeling.
 
-2. **Advanced CSS (Milestone 6)**:
+2. **Advanced CSS (Milestone 2)**:
 
    - Adding animations and transitions for dynamic effects.
    - Using pseudo-classes like `:hover` and `:focus` to enhance interactivity.
 
-3. **Responsive Design (Milestone 7)**:
+3. **Responsive Design (Milestone 3)**:
    - Using CSS Grid and Flexbox for adaptable layouts.
    - Applying media queries for a mobile-first design approach.
 
@@ -96,7 +96,7 @@ The HTML file provides the structure for the personal portfolio, including secti
 
 ### **2. `style.css`**
 
-This file evolves across the three weeks, integrating advanced CSS techniques like animations, transitions, and responsive design.
+This file evolves across the three Milestones, integrating advanced CSS techniques like animations, transitions, and responsive design.
 
 #### **Header and Navigation**
 

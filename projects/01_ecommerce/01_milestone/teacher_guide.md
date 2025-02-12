@@ -1,4 +1,4 @@
-# **Teacher Guide – Week 1: HTML Fundamentals**
+# **Teacher Guide – Milestone 1: HTML Fundamentals**
 
 ## **Introduction**
 

@@ -1,8 +1,8 @@
-# **Milestone 7: Responsive Design – Project Guide**
+# **Milestone 3: Responsive Design – Project Guide**
 
 ## **Overview**
 
-This guide provides an explanation of the Milestone 7 project, which focuses on completing the personal portfolio website with responsive design. The design adapts seamlessly to various screen sizes, ensuring a mobile-friendly and visually appealing experience. The "Projects" section is structured using CSS Grid, and media queries are implemented for layout adjustments.
+This guide provides an explanation of the Milestone 3 project, which focuses on completing the personal portfolio website with responsive design. The design adapts seamlessly to various screen sizes, ensuring a mobile-friendly and visually appealing experience. The "Projects" section is structured using CSS Grid, and media queries are implemented for layout adjustments.
 
 ---
 
@@ -31,7 +31,7 @@ This guide provides an explanation of the Milestone 7 project, which focuses on 
 
 ### **1. `index.html`**
 
-The structure remains consistent with Milestone 6 but includes additional project cards for demonstrating grid responsiveness.
+The structure remains consistent with Milestone 2 but includes additional project cards for demonstrating grid responsiveness.
 
 #### **Key Features**
 

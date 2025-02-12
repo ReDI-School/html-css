@@ -1,4 +1,4 @@
-# **Milestone 7: Responsive Design – Completing the Personal Portfolio (Part 3/3)**
+# **Milestone 3: Responsive Design – Completing the Personal Portfolio (Part 3/3)**
 
 ## **Objective**
 
@@ -31,7 +31,7 @@ This project completes the personal portfolio by making it responsive. The desig
 
 ### **1. Updated `index.html`**
 
-The structure remains consistent with Milestone 6, focusing on the responsiveness of existing elements.
+The structure remains consistent with Milestone 2, focusing on the responsiveness of existing elements.
 
 ```html
 <!DOCTYPE html>

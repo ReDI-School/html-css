@@ -1,8 +1,8 @@
-# **Teacher Guide – Week 2: CSS Basics**
+# **Teacher Guide – Milestone 2: CSS Basics**
 
 ## **Introduction**
 
-This guide is designed to help instructors teach students the basics of CSS by styling the e-commerce store skeleton built in Week 1. The lesson focuses on fundamental concepts like selectors, the box model, styling basics, and responsive design.
+This guide is designed to help instructors teach students the basics of CSS by styling the e-commerce store skeleton built in Milestone 1. The lesson focuses on fundamental concepts like selectors, the box model, styling basics, and responsive design.
 
 ---
 

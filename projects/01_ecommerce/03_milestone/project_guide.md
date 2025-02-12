@@ -40,7 +40,7 @@ This guide explains the enhancements made to the e-commerce store in Milestone 3
 
 ### **1. `index.html`**
 
-The structure remains similar to Weeks 1 and 2 but now includes **classes** and **IDs**.
+The structure remains similar to Milestones 1 and 2 but now includes **classes** and **IDs**.
 
 #### **Key Updates**
 

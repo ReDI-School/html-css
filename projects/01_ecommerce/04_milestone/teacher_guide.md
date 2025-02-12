@@ -1,8 +1,8 @@
-# **Teacher Guide – Recap: Weeks 1, 2, and 3**
+# **Teacher Guide – Recap: Milestones 1, 2, and 3**
 
 ## **Introduction**
 
-This guide is designed to help instructors recap the core concepts and techniques covered in Weeks 1, 2, and 3. Over these weeks, students built and styled an e-commerce store, learning the fundamentals of **HTML** and **CSS**, as well as advanced layout techniques.
+This guide is designed to help instructors recap the core concepts and techniques covered in Milestones 1, 2, and 3. Over these Milestones, students built and styled an e-commerce store, learning the fundamentals of **HTML** and **CSS**, as well as advanced layout techniques.
 
 ---
 
@@ -30,7 +30,7 @@ This guide is designed to help instructors recap the core concepts and technique
 
 ## **Classroom Flow**
 
-### **1. Semantic HTML (Week 1)**
+### **1. Semantic HTML (Milestone 1)**
 
 Start by explaining the role of semantic HTML in creating accessible and maintainable web pages:
 
@@ -59,9 +59,9 @@ Start by explaining the role of semantic HTML in creating accessible and maintai
 
 ---
 
-### **2. Styling Basics (Week 2)**
+### **2. Styling Basics (Milestone 2)**
 
-Explain how CSS enhances the structure built in Week 1:
+Explain how CSS enhances the structure built in Milestone 1:
 
 - **Key Concepts**:
   - Selectors: Element, class, and ID selectors.
@@ -88,7 +88,7 @@ header {
 
 ---
 
-### **3. Advanced Layout Techniques (Week 3)**
+### **3. Advanced Layout Techniques (Milestone 3)**
 
 Guide students in creating responsive layouts using Flexbox and Grid:
 

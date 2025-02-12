@@ -1,8 +1,8 @@
 
-# **Milestone 6: CSS Advanced – Project Guide**
+# **Milestone 2: CSS Advanced – Project Guide**
 
 ## **Overview**
-This guide provides an explanation of the Milestone 6 project, which enhances the personal portfolio website. The focus is on **animations**, **transitions**, and advanced CSS **pseudo-classes** to improve interactivity and visual appeal.
+This guide provides an explanation of the Milestone 2 project, which enhances the personal portfolio website. The focus is on **animations**, **transitions**, and advanced CSS **pseudo-classes** to improve interactivity and visual appeal.
 
 ---
 
@@ -29,7 +29,7 @@ This guide provides an explanation of the Milestone 6 project, which enhances th
 ## **File Breakdown**
 
 ### **1. `index.html`**
-The HTML structure remains consistent with Milestone 5 but includes additional placeholder text and content for a more complete layout.
+The HTML structure remains consistent with Milestone 1 but includes additional placeholder text and content for a more complete layout.
 
 #### **Key Updates**
 - Expanded "Projects" section with cards for individual projects.
@@ -184,4 +184,4 @@ The CSS file introduces animations, transitions, and advanced styling techniques
 ---
 
 ## **Next Steps**
-- Milestone 7 will focus on **responsive design**, ensuring the portfolio looks great on devices of all sizes.
+- Milestone 3 will focus on **responsive design**, ensuring the portfolio looks great on devices of all sizes.

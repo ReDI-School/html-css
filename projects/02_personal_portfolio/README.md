@@ -45,7 +45,7 @@ Welcome to the **Personal Portfolio Project**! This is your second project in th
 - **Browser Tools:** Chrome Developer Tools
 
 ### Resources
-- **Gitbook:** [HTML & CSS Hub]()
+- **Gitbook:** [HTML & CSS Hub](https://redi-school-1.gitbook.io/html-and-css/)
 
 ---
 

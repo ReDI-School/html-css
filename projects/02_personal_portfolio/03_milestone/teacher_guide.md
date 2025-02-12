@@ -1,4 +1,4 @@
-# **Teacher Guide – Week 7: Responsive Design**
+# **Teacher Guide – Milestone 3: Responsive Design**
 
 ## **Introduction**
 

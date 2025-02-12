@@ -1,5 +1,5 @@
 
-# **Milestone 6: CSS Advanced – Enhancing the Personal Portfolio (Part 2/3)**
+# **Milestone 2: CSS Advanced – Enhancing the Personal Portfolio (Part 2/3)**
 
 ## **Objective**
 - Enhance the personal portfolio website by introducing **animations**, **transitions**, and advanced **pseudo-classes**.
@@ -9,7 +9,7 @@
 ---
 
 ## **Project Overview**
-This project builds on the Milestone 5 portfolio by adding animations and transitions to elements like navigation links, buttons, and the contact form. Advanced CSS selectors and pseudo-classes are used to refine the design.
+This project builds on the Milestone 1 portfolio by adding animations and transitions to elements like navigation links, buttons, and the contact form. Advanced CSS selectors and pseudo-classes are used to refine the design.
 
 
 ---
@@ -30,7 +30,7 @@ This project builds on the Milestone 5 portfolio by adding animations and transi
 ## **Project Code**
 
 ### **1. Updated `index.html`**
-The structure remains similar to Milestone 5 but is filled with additional placeholder text to improve the layout's appearance.
+The structure remains similar to Milestone 1 but is filled with additional placeholder text to improve the layout's appearance.
 
 ```html
 <!DOCTYPE html>
@@ -277,4 +277,4 @@ h1, h2 {
 ---
 
 ## **Next Steps**
-- Milestone 7 will focus on responsive design, ensuring the portfolio looks great on all screen sizes.
+- Milestone 3 will focus on responsive design, ensuring the portfolio looks great on all screen sizes.

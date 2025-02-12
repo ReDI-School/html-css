@@ -44,7 +44,7 @@ The structure remains largely unchanged from Milestone 1. However, we link the u
 ---
 
 ### **2. `style.css`**
-The primary focus of this week’s project is the `style.css` file, which introduces basic styling concepts.
+The primary focus of this Milestone’s project is the `style.css` file, which introduces basic styling concepts.
 
 #### **Header Styling**
 - **Purpose**: Enhance branding and navigation.

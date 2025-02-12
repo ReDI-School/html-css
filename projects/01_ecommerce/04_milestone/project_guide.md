@@ -1,8 +1,8 @@
-# **Recap: Weeks 1, 2, and 3 – Project Guide**
+# **Recap: Milestones 1, 2, and 3 – Project Guide**
 
 ## **Overview**
 
-This guide summarizes the core concepts and project outputs from Weeks 1, 2, and 3. The focus was on creating an e-commerce store skeleton in Milestone 1, styling it with CSS basics in Milestone 2, and enhancing its layout with advanced techniques in Milestone 3.
+This guide summarizes the core concepts and project outputs from Milestones 1, 2, and 3. The focus was on creating an e-commerce store skeleton in Milestone 1, styling it with CSS basics in Milestone 2, and enhancing its layout with advanced techniques in Milestone 3.
 
 ---
 
@@ -68,7 +68,7 @@ The HTML file provides the structure for the e-commerce store, including section
 
 ### **2. `style.css`**
 
-This file progressively evolves across the three weeks, starting with basic styling and advancing to responsive layouts.
+This file progressively evolves across the three Milestones, starting with basic styling and advancing to responsive layouts.
 
 #### **Header Styling**
 

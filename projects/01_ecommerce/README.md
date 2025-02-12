@@ -45,7 +45,7 @@ Welcome to the **E-Commerce Store Project**! This is your first project in the H
 - **Browser Tools:** Chrome Developer Tools
 
 ### Resources
-- **Gitbook:** [HTML & CSS Hub]()
+- **Gitbook:** [HTML & CSS Hub](https://redi-school-1.gitbook.io/html-and-css/)
 
 ---
 

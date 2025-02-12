@@ -1,4 +1,4 @@
-# **Teacher Guide – Week 6: CSS Advanced**
+# **Teacher Guide – Milestone 2: CSS Advanced**
 
 ## **Introduction**
 

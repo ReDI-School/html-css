@@ -65,7 +65,7 @@ By the end of this course, you will be able to:
 - **Code Editor:** [Visual Studio Code](https://code.visualstudio.com/)
 - **Version Control:** [Git](https://git-scm.com/) & [GitHub](https://github.com/)
 - **Browser Tools:** Chrome Developer Tools
-- **ReDI Hub:** HTML & CSS Course Hub
+- **Gitbook:** [HTML & CSS Hub](https://redi-school-1.gitbook.io/html-and-css/)
 
 ---
 

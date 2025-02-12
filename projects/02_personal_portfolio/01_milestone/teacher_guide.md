@@ -1,4 +1,4 @@
-# **Teacher Guide – Week 5: HTML & CSS – Personal Portfolio**
+# **Teacher Guide – Milestone 1: HTML & CSS – Personal Portfolio**
 
 ## **Introduction**
 

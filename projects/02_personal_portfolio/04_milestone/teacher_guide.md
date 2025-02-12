@@ -1,24 +1,24 @@
-# **Teacher Guide – Recap: Weeks 5, 6, and 7**
+# **Teacher Guide – Recap: Milestones 1, 2, and 3**
 
 ## **Introduction**
 
-This guide is designed to help instructors recap the key concepts and techniques covered in Weeks 5, 6, and 7. Students built a personal portfolio project focusing on semantic HTML, advanced CSS, and responsive design. The lessons emphasize accessibility, interactivity, and modern web design practices.
+This guide is designed to help instructors recap the key concepts and techniques covered in Milestones 5, 6, and 7. Students built a personal portfolio project focusing on semantic HTML, advanced CSS, and responsive design. The lessons emphasize accessibility, interactivity, and modern web design practices.
 
 ---
 
 ## **Teaching Objectives**
 
-1. **Accessibility (Week 5)**:
+1. **Accessibility (Milestone 1)**:
 
    - Teach the importance of semantic HTML for screen readers and accessibility tools.
    - Demonstrate the use of ARIA attributes to enhance form usability.
 
-2. **Dynamic Styling (Week 6)**:
+2. **Dynamic Styling (Milestone 2)**:
 
    - Introduce animations and transitions to improve visual appeal.
    - Explain how pseudo-classes like `:hover` and `:focus` can create interactive elements.
 
-3. **Responsive Design (Week 7)**:
+3. **Responsive Design (Milestone 3)**:
    - Guide students in using media queries for mobile-first design.
    - Show how CSS Grid and Flexbox create adaptable layouts for different screen sizes.
 
@@ -26,7 +26,7 @@ This guide is designed to help instructors recap the key concepts and techniques
 
 ## **Classroom Flow**
 
-### **1. Accessibility and Semantic HTML (Week 5)**
+### **1. Accessibility and Semantic HTML (Milestone 1)**
 
 Start by explaining the role of semantic HTML and accessibility in web development:
 
@@ -58,7 +58,7 @@ Start by explaining the role of semantic HTML and accessibility in web developme
 
 ---
 
-### **2. Animations and Interactivity (Week 6)**
+### **2. Animations and Interactivity (Milestone 2)**
 
 Guide students in creating engaging designs with CSS animations and transitions:
 
@@ -94,7 +94,7 @@ button:hover {
 
 ---
 
-### **3. Responsive Design (Week 7)**
+### **3. Responsive Design (Milestone 3)**
 
 Introduce students to mobile-first design principles and layout techniques:
 

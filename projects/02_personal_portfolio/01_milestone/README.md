@@ -1,5 +1,5 @@
 
-# **Milestone 5: HTML & CSS – Building a Personal Portfolio (Part 1/3)**
+# **Milestone 1: HTML & CSS – Building a Personal Portfolio (Part 1/3)**
 
 ## **Objective**
 - Create a personal portfolio website with a focus on **semantic structure**, **forms**, and **accessibility**.
@@ -218,4 +218,4 @@ h1, h2 {
 ---
 
 ## **Next Steps**
-- Milestone 6 will focus on **animations, transitions**, and advanced CSS techniques to enhance the portfolio design.
+- Milestone 2 will focus on **animations, transitions**, and advanced CSS techniques to enhance the portfolio design.
