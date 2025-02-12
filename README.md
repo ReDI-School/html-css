@@ -45,23 +45,6 @@ Choose one of the following:
 
 ---
 
-### Project III: Final Project
-
-**Goal:** Apply your skills to a project of your choice. Choose one of the following:
-
-#### Option 1: TechStore Responsive Design
-- TechStore Responsive Design Project: A fully responsive e-commerce web application.
-- Includes a sticky header, responsive sidebar, and dynamic product grid.
-- Implement media queries for tablets and mobile devices.
-
-#### Option 2: Creative Developer Portfolio
-- Creative Developer Portfolio: A modern, interactive portfolio to highlight your creativity.
-- Features include a sticky navigation bar, an engaging hero section, and an animated project grid.
-- Focus on interactivity, aesthetics, and smooth responsiveness.
-
-
----
-
 ## 🚀 Learning Objectives
 
 By the end of this course, you will be able to:
